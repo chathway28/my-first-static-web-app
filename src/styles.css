@@ -41,3 +41,8 @@ body{
   from{border-right-color: rgb(39, 109, 57);;}
   to{border-right-color: transparent;}
 }
+
+.ascii-art {
+  font-family: monospace;
+  white-space: pre;
+}
